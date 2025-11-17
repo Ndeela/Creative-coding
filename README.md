@@ -35,29 +35,29 @@
 
 ### b. Code CSS pour un point
 
-![alt text](screenshot (1).png)
+![alt text](screenshot1.png)
 
 ### c. Créer un point au click
 
-![alt text](image-2.png)
+![alt text](screenshot2.png)
 
 ### d. Créer une nouvelle fleur au click
 
-![alt text](image-3.png)
+![alt text](screenshot3.png)
 
 
 ### e. Déplacer une image avec la souris
 
-![alt text](image-5.png)
+![alt text](screenshot4.png)
 
 ### f. Former un bouquet avec toutes les fleurs (touche A)
 
-![alt text](image-6.png)
+![alt text](screenshot5.png)
 
 
 ### g. Retour des fleurs à leur position initiale
 
-![alt text](image-7.png)
+![alt text](screenshot6.png)
 
 
 
